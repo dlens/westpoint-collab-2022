@@ -1,8 +1,8 @@
 # DL West Point Collaboration
 In early 2022, Dr. Ryan Mc Cullough (Decision Lens) worked with Dr. Jonathan Roginski (West Point) on a proof of
 concept use of DLC and AHP for prioritizing military needs.
-The most important outcome from this part of their decision making
-process is the 1-N list of alternatives (projects).  They brought
+The most important outcome from this prioritization process
+would be the 1-N list of alternatives (projects).  They brought
 Dr. William Adams (Decision Lens) into the project in March 2022
 to design and perform the analysis contained in this repository.
 

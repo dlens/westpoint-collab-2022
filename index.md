@@ -1,5 +1,5 @@
 # DL West Point Collaboration
-In early 2022, Dr. Ryan McCollough (Decision Lens) worked with Dr. Jonathan Roginski (organization?) on a proof of
+In early 2022, Dr. Ryan Mc Cullough (Decision Lens) worked with Dr. Jonathan Roginski (organization?) on a proof of
 concept use of DLC and AHP for prioritizing and ranking the future
 projects of (organization2?).
 The most important outcome from this part of their decision making
